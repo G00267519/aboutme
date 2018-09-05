@@ -1,0 +1,56 @@
+@-ms-veiwport{
+    width: device-width;
+}
+body{
+    background-color:white;
+    font-family: lucida sans, sans-serif;
+    background-image: url(1536102545867.JPEG);
+    background-position: center;
+}
+h1{
+    font-size: 500%;
+    text-shadow: 4px 2px 6px #eee9;
+    //border-width:4px;
+    //border-style: solid;
+    //border-color: red;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius:15px;  
+    //box-shadow: inset 8px 8px 8px grey;
+    //background-image: linear-gradient(to bottom, #fff, #000);
+    text-align: center;
+  }
+
+h2{
+    font-weight:lighter;
+    font-style: italic;
+}
+.Pro {color: red;
+}
+
+#wrapper{
+   background-color:black;
+    color: lightgray;
+    margin: auto;
+   // width: 75%;
+    //min-width: 600px;
+    opacity: .86;
+}
+
+
+
+
+main {
+    padding: 5px;
+    margin-left: 5px;
+    background-color: 
+    
+}
+
+
+
+
+
+
+
+
